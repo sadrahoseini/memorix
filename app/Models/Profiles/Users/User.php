@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Users;
+namespace App\Models\Profiles\Users;
 
 use App\Models\Memorize\Languages\Language;
 use App\Models\Memorize\Words\Word;
